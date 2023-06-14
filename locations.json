@@ -1,0 +1,90 @@
+[
+    {
+      "name": "Tech Haven",
+      "city": "New York City",
+      "country": "USA",
+      "longitude": -74.0060,
+      "latitude": 40.7128,
+      "currency": "USD"
+    },
+    {
+      "name": "Gadget Galaxy",
+      "city": "Los Angeles",
+      "country": "USA",
+      "longitude": -118.2437,
+      "latitude": 34.0522,
+      "currency": "USD"
+    },
+    {
+      "name": "Geek Paradise",
+      "city": "Beijing",
+      "country": "China",
+      "longitude": 116.4074,
+      "latitude": 39.9042,
+      "currency": "CNY"
+    },
+    {
+      "name": "Techland",
+      "city": "Shanghai",
+      "country": "China",
+      "longitude": 121.4737,
+      "latitude": 31.2304,
+      "currency": "CNY"
+    },
+    {
+      "name": "Innovation Hub",
+      "city": "Guangzhou",
+      "country": "China",
+      "longitude": 113.2644,
+      "latitude": 23.1291,
+      "currency": "CNY"
+    },
+    {
+      "name": "Gizmo Galaxy",
+      "city": "Tokyo",
+      "country": "Japan",
+      "longitude": 139.6917,
+      "latitude": 35.6895,
+      "currency": "JPY"
+    },
+    {
+      "name": "TechSpot",
+      "city": "Berlin",
+      "country": "Germany",
+      "longitude": 13.4050,
+      "latitude": 52.5200,
+      "currency": "EUR"
+    },
+    {
+      "name": "Digital Haven",
+      "city": "Hamburg",
+      "country": "Germany",
+      "longitude": 9.9937,
+      "latitude": 53.5511,
+      "currency": "EUR"
+    },
+    {
+      "name": "Byte Boutique",
+      "city": "Paris",
+      "country": "France",
+      "longitude": 2.3522,
+      "latitude": 48.8566,
+      "currency": "EUR"
+    },
+    {
+      "name": "Tech Junction",
+      "city": "Marseille",
+      "country": "France",
+      "longitude": 5.3698,
+      "latitude": 43.2965,
+      "currency": "EUR"
+    },
+    {
+      "name": "Gizmo Galore",
+      "city": "Warsaw",
+      "country": "Poland",
+      "longitude": 21.0122,
+      "latitude": 52.2297,
+      "currency": "PLN"
+    }
+]  

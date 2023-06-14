@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "url": "image1.jpg",
+    "title": "Logitech Keyboard",
+    "description": "The Logitech Keyboard is a high-quality wired keyboard designed for professional and gaming use. It features a comfortable layout, durable keys, and customizable backlighting. The keyboard offers a seamless typing experience and is compatible with both Windows and Mac computers.",
+    "tags": ["keyboard", "wired", "professional", "gaming"],
+    "price": "$59.99",
+    "origin": "USA",
+    "rating": "4.5/5"
+    },
+    {
+    "id": 2,
+    "url": "image2.jpeg",
+    "title": "Razer Mouse",
+    "description": "The Razer Mouse is a high-precision gaming mouse with customizable buttons and adjustable DPI settings. It offers a comfortable grip and smooth tracking, making it ideal for gamers and graphic designers. The mouse features RGB lighting and comes with a software for advanced customization.",
+    "tags": ["mouse", "gaming", "precision", "RGB"],
+    "price": "$79.99",
+    "origin": "USA",
+    "rating": "4.8/5"
+    },
+    {
+    "id": 3,
+    "url": "image3.jpg",
+    "title": "Samsung Monitor",
+    "description": "The Samsung Monitor is a 27-inch QHD display with a sleek design and vibrant colors. It offers a high refresh rate and fast response time, making it perfect for gaming and multimedia. The monitor comes with multiple connectivity options and features an ergonomic stand for adjustable height and tilt.",
+    "tags": ["monitor", "QHD", "27-inch", "gaming", "multimedia"],
+    "price": "$249.99",
+    "origin": "South Korea",
+    "rating": "4.7/5"
+    },
+    {
+    "id": 4,
+    "url": "image4.jpg",
+    "title": "Corsair Headset",
+    "description": "The Corsair Headset is a premium gaming headset with high-fidelity audio and immersive sound quality. It features comfortable ear cups, a noise-canceling microphone, and customizable EQ settings. The headset is compatible with PC, PlayStation, and Xbox consoles.",
+    "tags": ["headset", "gaming", "audio", "microphone"],
+    "price": "$129.99",
+    "origin": "USA",
+    "rating": "4.6/5"
+    },
+    {
+    "id": 5,
+    "url": "image5.jpg",
+    "title": "Seagate External Hard Drive",
+    "description": "The Seagate External Hard Drive is a portable storage solution for your PC. It offers large storage capacity and fast data transfer speeds. The hard drive is compact and lightweight, making it easy to carry around. It is compatible with both Windows and Mac operating systems.",
+    "tags": ["external hard drive", "storage", "portable"],
+    "price": "$89.99",
+    "origin": "USA",
+    "rating": "4.4/5"
+    },
+    {
+    "id": 6,
+    "url": "image6.jpg",
+    "title": "AMD Ryzen Processor",
+    "description": "The AMD Ryzen Processor is a powerful CPU designed for high-performance computing. It offers multiple cores and threads, making it ideal for multitasking and demanding applications. The processor delivers excellent performance and energy efficiency, enhancing your overall PC experience.",
+    "tags": ["processor", "CPU", "multitasking", "performance"],
+    "price": "$299.99",
+    "origin": "USA",
+    "rating": "4.9/5"
+    },
+    {
+    "id": 7,
+    "url": "image7.jpg",
+    "title": "NVIDIA GeForce Graphics Card",
+    "description": "The NVIDIA GeForce Graphics Card is a top-tier GPU that provides exceptional graphics performance for gaming and multimedia applications. It offers real-time ray tracing, high frame rates, and smooth gameplay. The graphics card supports multiple monitors and is VR-ready.",
+    "tags": ["graphics card", "GPU", "gaming", "ray tracing", "VR"],
+    "price": "$499.99",
+    "origin": "USA",
+    "rating": "4.7/5"
+    },
+    {
+    "id": 8,
+    "url": "image8.jpg",
+    "title": "Asus Motherboard",
+    "description": "The Asus Motherboard is a high-quality motherboard that provides a stable foundation for your PC build. It offers multiple expansion slots, advanced connectivity options, and excellent overclocking capabilities. The motherboard supports the latest processors and comes with comprehensive software for easy customization.",
+    "tags": ["motherboard", "PC build", "overclocking", "connectivity"],
+    "price": "$179.99",
+    "origin": "Taiwan",
+    "rating": "4.6/5"
+    },
+    {
+    "id": 9,
+    "url": "image9.jpg",
+    "title": "Crucial SSD",
+    "description": "The Crucial SSD is a high-performance solid-state drive that provides fast and reliable storage for your PC. It offers high read and write speeds, quick boot times, and reduced loading times for applications and games. The SSD is available in different capacities to suit your storage needs.",
+    "tags": ["SSD", "storage", "performance", "boot times"],
+    "price": "$99.99",
+    "origin": "USA",
+    "rating": "4.5/5"
+    },
+    {
+    "id": 10,
+    "url": "image10.jpg",
+    "title": "TP-Link Wi-Fi Router",
+    "description": "The TP-Link Wi-Fi Router is a reliable router that provides fast and stable internet connectivity for your PC and other devices. It offers high-speed wireless performance, wide coverage range, and advanced security features. The router supports multiple devices and is easy to set up and manage.",
+    "tags": ["Wi-Fi router", "internet connectivity", "wireless", "security"],
+    "price": "$69.99",
+    "origin": "China",
+    "rating": "4.4/5"
+    },
+    {
+    "id": 11,
+    "url": "image11.jpg",
+    "title": "Cooler Master CPU Cooler",
+    "description": "The Cooler Master CPU Cooler is a high-performance cooling solution for your PC. It features a large heatsink, multiple heat pipes, and a quiet fan for efficient heat dissipation. The CPU cooler is compatible with various CPU sockets and helps maintain optimal temperature during intense usage.",
+    "tags": ["CPU cooler", "cooling", "heat dissipation"],
+    "price": "$89.99",
+    "origin": "Taiwan",
+    "rating": "4.7/5"
+    },
+    {
+    "id": 12,
+    "url": "image12.jpg",
+    "title": "Dell Ultrawide Monitor",
+    "description": "The Dell Ultrawide Monitor is a curved display with an immersive viewing experience. It offers a wide aspect ratio, vibrant colors, and high resolution. The monitor is perfect for productivity tasks, content creation, and gaming. It comes with adjustable stand options for comfortable viewing.",
+    "tags": ["monitor", "ultrawide", "curved display", "productivity", "gaming"],
+    "price": "$499.99",
+    "origin": "USA",
+    "rating": "4.8/5"
+    },
+    {
+    "id": 13,
+    "url": "image13.jpg",
+    "title": "HyperX Gaming Keyboard",
+    "description": "The HyperX Gaming Keyboard is a mechanical keyboard designed for gamers. It features responsive and durable keys, customizable RGB lighting, and anti-ghosting technology. The keyboard offers a comfortable typing experience and comes with dedicated media keys and a detachable wrist rest.",
+    "tags": ["gaming keyboard", "keyboard", "mechanical", "RGB lighting", "anti-ghosting"],
+    "price": "$129.99",
+    "origin": "USA",
+    "rating": "4.6/5"
+    },
+    {
+    "id": 14,
+    "url": "image14.jpg",
+    "title": "Logitech Webcam",
+    "description": "The Logitech Webcam is a high-definition camera for video conferencing, streaming, and content creation. It offers sharp image quality, autofocus, and built-in microphone for clear audio. The webcam is compatible with popular video conferencing platforms and comes with easy-to-use software for customization.",
+    "tags": ["webcam", "video conferencing", "streaming", "content creation"],
+    "price": "$79.99",
+    "origin": "Switzerland",
+    "rating": "4.5/5"
+    },
+    {
+    "id": 15,
+    "url": "image15.jpg",
+    "title": "Kingston RAM",
+    "description": "The Kingston RAM is a high-performance memory module that enhances your PC's multitasking capabilities. It offers fast data transfer speeds, improved system responsiveness, and stability. The RAM is available in various capacities to suit your computing needs.",
+    "tags": ["RAM", "memory module", "multitasking", "performance"],
+    "price": "$89.99",
+    "origin": "USA",
+    "rating": "4.7/5"
+    },
+    {
+    "id": 16,
+    "url": "image16.jpg",
+    "title": "AOC Gaming Monitor",
+    "description": "The AOC Gaming Monitor is a high-refresh-rate monitor designed for smooth and immersive gaming experiences. It features a fast response time, adaptive sync technology, and a high contrast ratio for vibrant visuals. The monitor has a sleek design and offers multiple connectivity options.",
+    "tags": ["monitor", "gaming", "refresh rate", "adaptive sync"],
+    "price": "$299.99",
+    "origin": "China",
+    "rating": "4.6/5"
+    },
+    {
+    "id": 17,
+    "url": "image17.jpg",
+    "title": "SteelSeries Gaming Mousepad",
+    "description": "The SteelSeries Gaming Mousepad is a high-quality mousepad designed for precise mouse tracking and smooth gliding. It offers a large surface area, non-slip rubber base, and stitched edges for durability. The mousepad enhances your gaming performance and is suitable for both optical and laser mice.",
+    "tags": ["gaming mousepad", "precise tracking", "smooth gliding"],
+    "price": "$19.99",
+    "origin": "Denmark",
+    "rating": "4.5/5"
+    },
+    {
+    "id": 18,
+    "url": "image18.png",
+    "title": "Western Digital Internal Hard Drive",
+    "description": "The Western Digital Internal Hard Drive is a reliable and high-capacity storage solution for your PC. It offers fast data transfer speeds, quiet operation, and advanced data protection features. The hard drive is suitable for both gaming and professional use.",
+    "tags": ["internal hard drive", "storage", "data protection"],
+    "price": "$119.99",
+    "origin": "USA",
+    "rating": "4.6/5"
+    },
+    {
+    "id": 19,
+    "url": "image19.jpg",
+    "title": "Anker USB Hub",
+    "description": "The Anker USB Hub is a versatile device that expands the number of USB ports on your PC. It offers high-speed data transfer, compact design, and plug-and-play functionality. The USB hub is compatible with various devices and is ideal for connecting peripherals and accessories.",
+    "tags": ["USB hub", "expansion", "high-speed", "plug-and-play"],
+    "price": "$24.99",
+    "origin": "China",
+    "rating": "4.4/5"
+    },
+    {
+    "id": 20,
+    "url": "image20.jpg",
+    "title": "LG UltraGear Gaming Monitor",
+    "description": "The LG UltraGear Gaming Monitor is a high-performance monitor with a fast refresh rate and ultra-low response time. It offers smooth and fluid gameplay, stunning visuals, and ergonomic design. The monitor is G-Sync compatible and has customizable gaming modes for optimal performance.",
+    "tags": ["monitor", "gaming", "refresh rate", "response time"],
+    "price": "$499.99",
+    "origin": "South Korea",
+    "rating": "4.8/5"
+    }
+]
